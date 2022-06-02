@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![MasterHead](https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development.gif)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=B5179E&lines=Hi+there+%F0%9F%91%8B%2C++I'am+Majdi+Mokhtar;Welcome+to+my+Profile!;I'am+a+Full+stack+JavaScript+developer;I+enjoy+learning+new+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lato&size=22&color=B5179E&center=true&lines=Hi+there+%F0%9F%91%8B%2C++I'am+Majdi+Mokhtar;Welcome+to+my+Profile!;I'am+a+Full+stack+JavaScript+developer;I+enjoy+learning+new+things)](https://git.io/typing-svg)
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
