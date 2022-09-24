@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 I’m currently learning **React JS**
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **majdi.mokhtar@gmail.com**
 
