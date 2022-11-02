@@ -50,7 +50,6 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=majdimokhtar&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="majdimokhtar" /></p> <br/>
 
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=majdimokhtar&show_icons=true&theme=tokyonight&locale=en" alt="majdimokhtar" /></p> <br/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=majdimokhtar&theme=tokyonight" alt="majdimokhtar" /></p> <br/>
