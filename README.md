@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=majdimokhtar&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="majdimokhtar" /> </p>
 
-👨‍💻 I’m currently learning **React JS**
+👨‍💻 I’m a **React** Frontend Developer.
 
 💬 Ask me about **MERN Stack**
 
