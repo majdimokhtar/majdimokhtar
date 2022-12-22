@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 
 💬 Ask me about **MERN Stack**
 
+🌱 I’m currently learning **TypeScript**
+
 📫 How to reach me **majdi.mokhtar@gmail.com**
 
 💻 [Portfolio](https://majdi-mokhtar-portfolio.vercel.app/) <br/>
