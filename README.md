@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 <p float="left">
   <img src="https://readme-stats-new-git-main-majdimokhtar.vercel.app/api/top-langs?username=majdimokhtar&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="majdimokhtar" height="200" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <img src="https://readme-stats-new-git-main-majdimokhtar.vercel.app/api?username=majdimokhtar&show_icons=true&theme=tokyonight&locale=en" alt="majdimokhtar" height="200" />
 </p>
 
