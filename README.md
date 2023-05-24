@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=majdimokhtar&theme=tokyonight" alt="majdimokhtar" /></p> <br/>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=majdimokhtar&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph-12y7uwokk-majdimokhtar.vercel.app/graph?username=majdimokhtar&theme=react)](https://github.com/majdimokhtar/github-readme-activity-graph)
 
 
 
