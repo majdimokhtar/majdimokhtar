@@ -63,5 +63,7 @@ Here are some ideas to get you started:
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph-12y7uwokk-majdimokhtar.vercel.app/graph?username=majdimokhtar&theme=react)](https://github.com/majdimokhtar/github-readme-activity-graph)
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31nf4mcqznl5cyzbvkvwnvk3ah7a&width=1000)
+
 
 
