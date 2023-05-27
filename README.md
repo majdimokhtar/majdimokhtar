@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![MasterHead](https://raw.githubusercontent.com/majdimokhtar/github-images/main/bannerMajdigithub.gif?token=GHSAT0AAAAAABUZ7SARWF5JRH6NM4LJHVBMY3GNJMQ)](https://majdi-mokhtar-portfolio.vercel.app/)
+[![MasterHead](https://raw.githubusercontent.com/majdimokhtar/github-images/main/newbannerjs.gif)](https://majdi-mokhtar-portfolio.vercel.app/)
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lato&size=22&color=B5179E&center=true&lines=Hi+there+%F0%9F%91%8B%2C++I'am+Majdi+Mokhtar;Welcome+to+my+Profile!;I'am+a+Full+stack+JavaScript+developer;I+enjoy+learning+new+things)](https://git.io/typing-svg)
