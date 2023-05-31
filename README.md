@@ -56,9 +56,9 @@ Here are some ideas to get you started:
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<p><img align="left" src="https://readme-stats-new-git-main-majdimokhtar.vercel.app/api/top-langs?username=majdimokhtar&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="majdimokhtar" height="185" /></p>
+<p><img align="left" src="https://readme-stats-new-majdimokhtar.vercel.app/api/top-langs?username=majdimokhtar&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="majdimokhtar" height="185" /></p>
 
-<p>&nbsp;<img align="center" src="https://readme-stats-new-git-main-majdimokhtar.vercel.app/api?username=majdimokhtar&show_icons=true&theme=tokyonight&locale=en" alt="majdimokhtar" height="185" /></p> <br/>
+<p>&nbsp;<img align="center" src="https://readme-stats-new-majdimokhtar.vercel.app/api?username=majdimokhtar&show_icons=true&theme=tokyonight&locale=en" alt="majdimokhtar" height="185" /></p> <br/>
 
 
 
