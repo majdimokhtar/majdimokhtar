@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 💻 [Portfolio](https://majdi-mokhtar-portfolio.vercel.app/) <br/>
 
-## Connect with me:
+## Connect with me :
 
 <p align="left">
   <a href="https://linkedin.com/in/majdimokhtar" target="_blank">
