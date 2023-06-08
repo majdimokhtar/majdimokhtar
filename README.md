@@ -59,9 +59,9 @@ Here are some ideas to get you started:
 
 ## ⚡ GitHub Stats
 
-<p><img align="left" src="https://readme-stats-new-majdimokhtar.vercel.app/api/top-langs?username=majdimokhtar&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="majdimokhtar" height="185" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=majdimokhtar&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="majdimokhtar" height="185" /></p>
 
-<p>&nbsp;<img align="center" src="https://readme-stats-new-majdimokhtar.vercel.app/api?username=majdimokhtar&show_icons=true&theme=tokyonight&locale=en" alt="majdimokhtar" height="185" /></p> <br/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=majdimokhtar&show_icons=true&theme=tokyonight&locale=en" alt="majdimokhtar" height="185" /></p> <br/>
 
 
 
