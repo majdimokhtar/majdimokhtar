@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 📫 How to reach me **majdi.mokhtar@gmail.com**
 
+💼 [Digital Resume](https://digital-resume-majdi-mokhtar.vercel.app/) 
+
 💻 [Portfolio](https://majdi-mokhtar-portfolio.vercel.app/) <br/>
 
 ## Connect with me :
