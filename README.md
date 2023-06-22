@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white&width=200)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-%2300BFFF.svg?style=for-the-badge&logo=agile&logoColor=white)
 
 ## ⚡ GitHub Stats
 
