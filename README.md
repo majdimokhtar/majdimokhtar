@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 💬 Ask me about **MERN Stack**
 
-🌱 I’m currently learning **TypeScript**
+🌱 I’m currently learning **DevOps**
 
 📫 How to reach me **majdi.mokhtar@gmail.com**
 
