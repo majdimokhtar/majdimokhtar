@@ -35,13 +35,18 @@ Here are some ideas to get you started:
 
 💻 [Portfolio](https://majdi-mokhtar-portfolio.vercel.app/) <br/>
 
-## Connect with me :
+## Connect with me:
 
 <p align="left">
   <a href="https://linkedin.com/in/majdimokhtar" target="_blank">
     <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="60" width="60" />
   </a>
+  
+  <a href="https://www.credly.com/users/majdi-mokhtar/badges" target="_blank">
+    <img align="center" src="https://www.svgrepo.com/show/331358/credly.svg" alt="Credly" height="50" width="50"  />
+  </a>
 </p>
+
 
 ## My Values :
 🧠 **Thoughtful** & **Inclusive Development** <br/>
