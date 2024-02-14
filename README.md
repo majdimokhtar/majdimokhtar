@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 👨‍💻 I’m a **React** Frontend Developer.
 
-💬 Ask me about **MERN Stack**
+💬 Ask me about **MERN Stack, Next.js**
 
 🌱 I’m currently learning **DevOps**
 
